@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "todolit-backend",
+			"path": "."
+		},
+		{
+			"name": "frontend",
+			"path": "../frontend/frontend"
+		}
+	],
+	"settings": {}
+}
